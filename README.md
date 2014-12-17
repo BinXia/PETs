@@ -61,16 +61,22 @@ Design Description
 ==============
 
 - PETs_final.ipynb
+
 This is the code which is doing loading, sampling, training, testing from starting to finishing. It contains our sampling strategy completely.
 - PETs_ourDatasets.ipynb
+
 This is the code which is loading the model directly to test Dtestset72 and PDBtestset164.
 - PETs_ez2use.ipynb
+
 This is the code for 'easy to use'.
 - dataset/PRSA/PSA/PSS/PSSM/subDataset
+
 The storage of datasets and features used in our experiments.
 - ETsModel
+
 The storage of model files in different definition of interface.
 - YourDatasetHere
+
 The storage of datasets and features for PETs_ez2use.ipynb.  
 
 Additional Information
