@@ -83,7 +83,7 @@ The storage of datasets and features for PETs_ez2use.ipynb.
 Additional Information
 =================
 
-Feel free to give us a  email if you have questions or concerns.
+Feel free to send us an  email if you have any question or concern.
 
 E-mail: ben.binxia@gmail.com
 
